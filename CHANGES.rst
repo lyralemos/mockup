@@ -1,6 +1,23 @@
 Changelog
 =========
 
+3.0 (unreleased)
+----------------
+
+Breaking changes:
+
+* Refactor for usage with ``npm`` instead of ``bower``.
+  [thet]
+
+New features:
+
+* add items here
+
+Bug fixes:
+
+* add items here
+
+
 2.6.3 (Unreleased)
 ------------------
 
