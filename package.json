@@ -21,7 +21,6 @@
       "react": "https://github.com/facebook/react-bower.git#0.10.0",
       "requirejs-text": "https://github.com/requirejs/text.git#2.0.15",
       "select2": "https://github.com/ivaynberg/select2.git#3.5.4",
-      "selectivizr": "https://github.com/keithclark/selectivizr.git#1.0.2",
       "tinymce-builded": "https://github.com/artursmirnov/tinymce_builded.git#4.5.6",
       "js-shortcuts": "https://github.com/xaneem/js-shortcuts.git#1.0.1",
       "cs-jqtree-contextmenu": "https://github.com/ChadSikorra/jqTreeContextMenu.git#0.1.0"

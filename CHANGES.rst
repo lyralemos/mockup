@@ -13,6 +13,7 @@ Breaking changes:
     - console-polyfill
     - es5-shim
     - logging
+    - selectivizr
   [thet]
 
 * Remove support for IE < 9.
