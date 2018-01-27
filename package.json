@@ -13,7 +13,7 @@
       "jquery": "https://github.com/jquery/jquery-dist.git#1.11.3",
       "jquery-form": "https://github.com/jquery-form/form.git#3.51",
       "jquery.cookie": "https://github.com/carhartl/jquery-cookie.git#1.4.1",
-      "jquery.recurrenceinput.js": "https://github.com/collective/jquery.recurrenceinput.js.git#v1.5.2",
+      "jquery.recurrenceinput.js": "https://github.com/collective/jquery.recurrenceinput.js.git#thet-npm",
       "moment": "https://github.com/moment/moment.git#2.10.6",
       "patternslib": "https://github.com/Patternslib/Patterns.git#2.0.13",
       "pickadate": "https://github.com/amsul/pickadate.js.git#3.5.6",
