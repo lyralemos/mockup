@@ -4,6 +4,13 @@ Changelog
 3.0 (unreleased)
 ----------------
 
+TODO:
+
+- since we removed marked and react, refactor docs like in Patterns.
+
+- Refactor jquery.recurrenceinput.js dependencies
+
+
 Breaking changes:
 
 * Refactor for usage with ``npm`` instead of ``bower``.
