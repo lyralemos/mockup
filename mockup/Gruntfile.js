@@ -56,7 +56,7 @@ module.exports = function(grunt) {
       //},
       'docs-legacy-js': {
         path: 'docs/dev/index.html',
-        pattern: '<script src="bower_components/es5-shim/es5-shim.js"></script>\n    <script src="bower_components/es5-shim/es5-sham.js"></script>\n    <script src="bower_components/console-polyfill/index.js"></script>',
+        pattern: '<script src="bower_components/es5-shim/es5-shim.js"></script>\n    <script src="bower_components/es5-shim/es5-sham.js"></script>',
         replacement: '<script src="docs-legacy.js"></script>'
       },
       'docs-catalogurl': {

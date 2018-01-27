@@ -206,7 +206,6 @@
         'bower_components/selectivizr/selectivizr.js',
         'bower_components/es5-shim/es5-shim.js',
         'bower_components/es5-shim/es5-sham.js',
-        'bower_components/console-polyfill/index.js',
         'node_modules/mocha/mocha.js',
         'node_modules/karma-mocha/lib/adapter.js',
         'node_modules/requirejs/require.js',

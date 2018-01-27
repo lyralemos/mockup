@@ -9,6 +9,10 @@ Breaking changes:
 * Refactor for usage with ``npm`` instead of ``bower``.
   [thet]
 
+* Remove obsolete dependencies:
+    - console-polyfill
+  [thet]
+
 New features:
 
 * add items here
