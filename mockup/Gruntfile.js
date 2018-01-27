@@ -49,16 +49,6 @@ module.exports = function(grunt) {
         pattern: 'href="docs/dev/docs.min.css"',
         replacement: 'href="docs.min.css"'
       },
-      //'docs-js': {
-      //  path: 'docs/dev/index.html',
-      //  pattern: '<script src="node_modules/requirejs/require.js"></script>\n  <script src="js/config.js"></script>\n  <script>\n    window.DEBUG = true;\n    require\\(\\[\'mockup-bundles-docs\'\\]\\);\n  </script>',
-      //  replacement: '<script src="docs.min.js"></script>'
-      //},
-      'docs-legacy-js': {
-        path: 'docs/dev/index.html',
-        pattern: '<script src="bower_components/es5-shim/es5-shim.js"></script>\n    <script src="bower_components/es5-shim/es5-sham.js"></script>',
-        replacement: '<script src="docs-legacy.js"></script>'
-      },
       'docs-catalogurl': {
         path: 'docs/dev/index.html',
         pattern: 'data-i18ncatalogurl="/tests/json/i18n.json"',
