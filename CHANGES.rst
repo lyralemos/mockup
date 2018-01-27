@@ -14,7 +14,10 @@ Breaking changes:
     - es5-shim
     - logging
     - selectivizr
-    - js-shortcuts
+    - js-shortcuts    
+    - marked
+    - react
+    - JSXTransformer
   [thet]
 
 * Remove support for IE < 9.
