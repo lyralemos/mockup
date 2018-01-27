@@ -14,7 +14,6 @@
       "jquery-form": "https://github.com/jquery-form/form.git#3.51",
       "jquery.cookie": "https://github.com/carhartl/jquery-cookie.git#1.4.1",
       "jquery.recurrenceinput.js": "https://github.com/collective/jquery.recurrenceinput.js.git#v1.5.2",
-      "logging": "https://github.com/Patternslib/logging.git#master",
       "marked": "https://github.com/chjj/marked.git#0.3.5",
       "moment": "https://github.com/moment/moment.git#2.10.6",
       "patternslib": "https://github.com/Patternslib/Patterns.git#2.0.13",

@@ -12,6 +12,7 @@ Breaking changes:
 * Remove obsolete dependencies:
     - console-polyfill
     - es5-shim
+    - logging
   [thet]
 
 * Remove support for IE < 9.

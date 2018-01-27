@@ -127,8 +127,7 @@
       'pat-base': 'bower_components/patternslib/src/core/base',
       'pat-mockup-parser': 'bower_components/patternslib/src/core/mockup-parser',
       'pat-registry': 'bower_components/patternslib/src/core/registry',
-      'pat-utils': 'bower_components/patternslib/src/core/utils',
-      'logging': 'bower_components/logging/src/logging'
+      'pat-utils': 'bower_components/patternslib/src/core/utils'
     },
     shim: {
       'JSXTransformer': { exports: 'window.JSXTransformer' },
@@ -142,7 +141,7 @@
       'jqtree': { deps: ['jquery'] },
       'jqtree-contextmenu': { deps: ['jqtree'] },
       'js-shortcuts': { deps: ['jquery'] },
-      'select2': { deps: ["jquery"] },
+      'select2': { deps: ['jquery'] },
       'jquery.cookie': { deps: ['jquery'] },
       'jquery.event.drag': { deps: ['jquery'] },
       'jquery.event.drop': { deps: ['jquery'], exports: '$.drop' },
