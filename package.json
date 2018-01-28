@@ -9,6 +9,7 @@
     "backbone": "https://github.com/jashkenas/backbone.git#1.1.2",
     "backbone.paginator": "https://github.com/addyosmani/backbone.paginator.git#0.8.1",
     "bootstrap": "https://github.com/twbs/bootstrap.git#v3.3.6",
+    "cs-jqtree-contextmenu": "https://github.com/ChadSikorra/jqTreeContextMenu.git#master",
     "dropzone": "https://github.com/enyo/dropzone.git#v4.3.0",
     "jqtree": "https://github.com/mbraak/jqTree.git#1.4.1",
     "jquery": "https://github.com/jquery/jquery-dist.git#1.11.3",
@@ -20,8 +21,7 @@
     "pickadate": "https://github.com/amsul/pickadate.js.git#3.5.6",
     "requirejs-text": "https://github.com/requirejs/text.git#2.0.15",
     "select2": "https://github.com/ivaynberg/select2.git#3.5.4",
-    "tinymce-builded": "https://github.com/artursmirnov/tinymce_builded.git#4.5.6",
-    "cs-jqtree-contextmenu": "https://github.com/ChadSikorra/jqTreeContextMenu.git#master"
+    "tinymce-builded": "https://github.com/artursmirnov/tinymce_builded.git#4.5.6"
   },
   "devDependencies": {
     "chai": "^3.5.0",
