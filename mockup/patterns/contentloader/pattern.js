@@ -102,6 +102,7 @@ define([
           }
           that.loadLocal($el);
           that.$el.removeClass('loading-content');
+          that.emit('loading-done');
         },
         error: function(){
           that.$el.addClass('content-load-error');
